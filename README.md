@@ -3,4 +3,4 @@
 
 ### Assignments
 
-This repository contains the assignments. If you have any questions, please send me an email.
+The notebooks should be run in Colab. If you have any questions, please send me an email.
