@@ -12,7 +12,10 @@ The exercise is intended to walk you through the process of solving a problem us
   - Perform the search and download the data
   - Filter the data using a semi-automatic process
   - Combine the data with what others have collected
-- Train and validate the models
 - Test the final model
+- Train and validate the models in PyTorch
+- Test the model in PyTorch
+- Port the PyTorch model to TF Lite
+- Deploy and test the model on the Coral device
 
 If you have any questions, please send me an email.
